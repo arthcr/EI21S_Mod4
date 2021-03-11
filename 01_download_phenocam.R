@@ -15,4 +15,5 @@ download_phenocam <- function(URL) {
   } else {
     print(paste("download.phenocam: Input URL not provided correctly", URL))
   }
+  
 }
